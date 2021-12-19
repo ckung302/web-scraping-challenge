@@ -73,4 +73,4 @@ def scrape():
         "hemisphere_image_urls": image_urls
     }
 
-    print('complete!')
+    return mars
